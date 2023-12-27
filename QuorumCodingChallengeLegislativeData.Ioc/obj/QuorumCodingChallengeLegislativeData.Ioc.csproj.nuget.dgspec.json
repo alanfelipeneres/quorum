@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\QuorumCodingChallengeLegislativeData.Ioc.csproj": {}
+  },
+  "projects": {
+    "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\QuorumCodingChallengeLegislativeData.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\QuorumCodingChallengeLegislativeData.Application.csproj",
+        "projectName": "QuorumCodingChallengeLegislativeData.Application",
+        "projectPath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\QuorumCodingChallengeLegislativeData.Application.csproj",
+        "packagesPath": "C:\\Users\\alanf\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alanf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\QuorumCodingChallengeLegislativeData.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\QuorumCodingChallengeLegislativeData.Ioc.csproj",
+        "projectName": "QuorumCodingChallengeLegislativeData.Ioc",
+        "projectPath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\QuorumCodingChallengeLegislativeData.Ioc.csproj",
+        "packagesPath": "C:\\Users\\alanf\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alanf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\QuorumCodingChallengeLegislativeData.Application.csproj": {
+                "projectPath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Application\\QuorumCodingChallengeLegislativeData.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

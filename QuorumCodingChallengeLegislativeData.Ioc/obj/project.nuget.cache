@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxJOZdBjhUUc884Kiq54/Dgp6GthIDjjCuee5xbW+AgIINsg73DF+nUsTahzENteN13DR3x0ZhnYizSvia48OQ==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\QuorumCodingChallengeLegislativeData\\QuorumCodingChallengeLegislativeData.Ioc\\QuorumCodingChallengeLegislativeData.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\alanf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\alanf\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
